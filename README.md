@@ -14,4 +14,6 @@ Created first tests, to test creating and deleting tasks.
 
 ## part 4: Call REST API from React
 
-Installed axios. Data can now be fetched and added from database
+Installed axios. Data can now be fetched and added from database.
+
+## part 5: Environment variables, routing, middleware for backend
