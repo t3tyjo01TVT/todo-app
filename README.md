@@ -11,3 +11,7 @@ Created server folder, installed modules express, cors, pg and nodemon. Created 
 ## part 3: Automated testing
 
 Created first tests, to test creating and deleting tasks.
+
+## part 4: Call REST API from React
+
+Installed axios. Data can now be fetched and added from database
