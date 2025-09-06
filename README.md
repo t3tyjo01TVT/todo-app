@@ -7,3 +7,7 @@ Started a new React project for frontend. Added functions addTask and deleteTask
 ## part 2: Creating backend
 
 Created server folder, installed modules express, cors, pg and nodemon. Created first get, post, delete http-requests. Created and tested backend connection to database.
+
+## part 3: Automated testing
+
+Created first tests, to test creating and deleting tasks.
